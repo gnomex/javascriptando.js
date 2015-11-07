@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "algorithms": "^0.9.1"
+    "algorithms": "^0.9.1",
+    "jasmine": "^2.3.2"
   }
 }

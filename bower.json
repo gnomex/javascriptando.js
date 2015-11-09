@@ -1,0 +1,19 @@
+{
+  "name": "javascriptando",
+  "version": "0.0.1",
+  "authors": [
+    "Kenner Kliemann <kenner.hp@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "list.js": "~1.1.1",
+    "bootstrap": "~3.3.5"
+  }
+}
